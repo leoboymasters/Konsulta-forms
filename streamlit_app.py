@@ -42,7 +42,7 @@ def main():
     st.title("Konsulta Health Assessment Tool")
 
     sections = [
-        ("General Info", 'general_info'),
+        ("GENERAL DATA AND KONSULTA REGISTRATION", 'general_info'),
         ("Medical History", 'medical_history'),
         ("Social History", 'social_history'),
         ("Immunization", 'immunization'),
